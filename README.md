@@ -3,7 +3,7 @@ Google Apps Script to automate attendance tracking using Google Sheets
 
 ## Features 
 - Auto-calculation attendance summary
-- Highlight color based on agent list 
+- Assigned colors based on Agent List 
 - Linked tables (Agent List and Attendance List)
   
 
