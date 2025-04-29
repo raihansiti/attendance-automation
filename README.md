@@ -1,10 +1,12 @@
-# attendance-automation
-Google Apps Script to automate attendance tracking using Google Sheets
+# attendance-tools
+Google Apps Script to automate match attendance and highlight by agent using Google Sheets.
 
 ## Features 
-- Auto-calculation attendance summary
-- Assigned colors based on Agent List 
-- Linked tables (Agent List and Attendance List)
+- Script uses relational data matching (Worker ID from AgentList & AttendanceList)
+- Dynamic color assignment with custom visual legend
+- Adds Agent name automatically to output column after match
+- Improves manual matching process with accurate, automated logic.
+- Built-in data validation and UI feedbacks (alerts & menu integration)
   
 
 ## Tools used 
